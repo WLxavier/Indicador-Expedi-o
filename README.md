@@ -8,7 +8,7 @@ Após a implementação do modelo de premiação, foi observada uma melhora sign
 
 ## Problema
 
-O setor de expedição enfrentava desafios relacionados à produtividade e motivação dos funcionários. As atividades de conferência e coleta de produtos exigiam o envolvimento de muitos colaboradores e demandavam tempo prolongado para serem completadas. Para enfrentar esse problema, a empresa decidiu implementar um modelo de premiação que recompensa os funcionários por produtividade, criando incentivos diretos para melhorar o desempenho.
+O setor de expedição enfrentava desafios relacionados à produtividade e motivação dos funcionários. As atividades de conferência e coleta de produtos exigiam o envolvimento de muitos colaboradores e demandavam tempo prolongado para serem completadas. Para enfrentar esse problema, decidi implementar um modelo de premiação que recompensa os funcionários por produtividade, criando incentivos diretos para melhorar o desempenho.
 
 Com a implantação desse modelo, foi possível:
 - **Reduzir a equipe de conferência**: De 19 funcionários necessários para a conferência, passou-se a precisar de apenas 14.
